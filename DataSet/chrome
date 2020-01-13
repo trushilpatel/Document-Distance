@@ -1,0 +1,40 @@
+Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android. The browser is also the main component of Chrome OS, where it serves as the platform for web apps.
+
+Most of Chrome's source code comes from Google's open-source Chromium project, but Chrome is licensed as proprietary freeware.[14] WebKit was the original rendering engine, but Google eventually forked it to create the Blink engine; all Chrome variants except iOS now use Blink.[15]
+
+As of July 2019, StatCounter estimates that Chrome has a 71% worldwide browser market share on traditional PCs and 63% across all platforms.[16][17] Because of this success, Google has expanded the "Chrome" brand name to other products: Chrome OS, Chromecast, Chromebook, Chromebit, Chromebox, and Chromebase. 
+
+Sundar Pichai initiated the idea that Google should have its own browser.[18] Google CEO Eric Schmidt opposed the development of an independent web browser for six years. He stated that "at the time, Google was a small company", and he did not want to go through "bruising browser wars". After co-founders Sergey Brin and Larry Page hired several Mozilla Firefox developers and built a demonstration of Chrome, Schmidt admitted that "It was so good that it essentially forced me to change my mind."[19]
+
+In September 2004, rumors of Google building a web browser first appeared. Online journals and U.S. newspapers stated at the time that Google was hiring former Microsoft web developers among others. It also came shortly after the final 1.0 release of Mozilla Firefox, which was surging in popularity and taking market share from Internet Explorer, which was suffering from major security problems.[20]
+Announcement
+
+The release announcement was originally scheduled for September 3, 2008, and a comic by Scott McCloud was to be sent to journalists and bloggers explaining the features within the new browser.[21] Copies intended for Europe were shipped early and German blogger Philipp Lenssen of Google Blogoscoped[22] made a scanned copy of the 38-page comic available on his website after receiving it on September 1, 2008.[23] Google subsequently made the comic available on Google Books[24] and mentioned it on their official blog along with an explanation for the early release.[25] The product was allegedly named "Chrome" because Google wanted to minimize the chrome of the browser,[26] though this meaning was added somewhat post-hoc, the code name before release apparently chosen from a connotation of speed.[27] 
+
+The browser was first publicly released on September 2, 2008 for Windows XP and later, with 43 supported languages, officially a beta version,[28] and as a stable public release on December 11, 2008.
+
+On the same day, a CNET news item[29] drew attention to a passage in the Terms of Service statement for the initial beta release, which seemed to grant to Google a license to all content transferred via the Chrome browser. This passage was inherited from the general Google terms of service.[30] Google responded to this criticism immediately by stating that the language used was borrowed from other products, and removed this passage from the Terms of Service.[14]
+
+Chrome quickly gained about 1% usage share.[25][31][32] After the initial surge, usage share dropped until it hit a low of 0.69% in October 2008. It then started rising again and by December 2008, Chrome again passed the 1% threshold.[33]
+
+In early January 2009, CNET reported that Google planned to release versions of Chrome for OS X and Linux in the first half of the year.[34] The first official Chrome OS X and Linux developer previews[35] were announced on June 4, 2009, with a blog post[36] saying they were missing many features and were intended for early feedback rather than general use.
+
+In December 2009, Google released beta versions of Chrome for OS X and Linux.[37][38] Google Chrome 5.0, announced on May 25, 2010, was the first stable release to support all three platforms.[39]
+
+Chrome was one of the twelve browsers offered to European Economic Area users of Microsoft Windows in 2010.[40]
+Development
+
+Chrome was assembled from 25 different code libraries from Google and third parties such as Mozilla's Netscape Portable Runtime, Network Security Services, NPAPI (dropped as of version 45),[41] Skia Graphics Engine, SQLite, and a number of other open-source projects.[42] The V8 JavaScript virtual machine was considered a sufficiently important project to be split off (as was Adobe/Mozilla's Tamarin) and handled by a separate team in Denmark coordinated by Lars Bak in Aarhus. According to Google, existing implementations were designed "for small programs, where the performance and interactivity of the system weren't that important", but web applications such as Gmail "are using the web browser to the fullest when it comes to DOM manipulations and JavaScript", and therefore would significantly benefit from a JavaScript engine that could work faster.
+
+Chrome initially used the WebKit rendering engine to display web pages. In 2013, they forked the WebCore component to create their own layout engine Blink. Based on WebKit, Blink only uses WebKit's "WebCore" components, while substituting other components, such as its own multi-process architecture, in place of WebKit's native implementation.[15]
+
+Chrome is internally tested with unit testing, "automated user interface testing of scripted user actions", fuzz testing, as well as WebKit's layout tests (99% of which Chrome is claimed to have passed), and against commonly accessed websites inside the Google index within 20–30 minutes.[24]
+
+Google created Gears for Chrome, which added features for web developers typically relating to the building of web applications, including offline support.[24] Google phased out Gears as the same functionality became available in the HTML5 standards.[43]
+
+On January 11, 2011, the Chrome product manager, Mike Jazayeri, announced that Chrome would remove H.264 video codec support for its HTML5 player, citing the desire to bring Google Chrome more in line with the currently available open codecs available in the Chromium project, which Chrome is based on.[44] Despite this, on November 6, 2012, Google released a version of Chrome on Windows which added hardware-accelerated H.264 video decoding.[45] In October 2013, Cisco announced that it was open-sourcing its H.264 codecs and will cover all fees required.[46]
+
+On February 7, 2012, Google launched Google Chrome Beta for Android 4.0 devices.[47] On many new devices with Android 4.1 and later preinstalled, Chrome is the default browser.[48]
+
+In May 2017, Google announced a version of Chrome for augmented reality and virtual reality devices.[49] 
+

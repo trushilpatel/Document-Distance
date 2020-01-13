@@ -1,0 +1,27 @@
+Microsoft Edge is a web browser developed by Microsoft. It was first released for Windows 10 and Xbox One in 2015, then for Android and iOS in 2017,[8][9] and for macOS in 2019.[10]
+
+Edge includes integration with Cortana and has extensions hosted on the Microsoft Store. Unlike Internet Explorer, Edge does not support the legacy ActiveX and BHO technologies.
+
+Originally built with Microsoft's own EdgeHTML and Chakra engines, in 2019 Edge was rebuilt as a Chromium-based browser,[11][12] using the Blink and V8 engines. As part of this change (codenamed Anaheim), Microsoft has made the preview builds of Chromium-based Edge available on Windows 7, 8, 8.1 and macOS, in addition to Windows 10.[13] As of September 2019, only preview builds of Chromium-based Edge are available. Microsoft intends to release the first Chromium-based Edge version on January 15, 2020.[14]
+
+According to StatCounter, in August 2019 Edge overtook the market share of Internet Explorer (IE) on PC, Edge in fourth place and IE in fifth. While IE's share dropped, no single version of Edge is more popular than Internet Explorer 11. The market share for Edge remains low, with IE following in this trend. However, combining the market share of Edge and IE, Microsoft's browsers are third place in PC browser market share, Chrome being first and Firefox second. Mobile versions of Edge exist for Android and iOS, however they have little to no market share. On Microsoft consoles, Edge replaced IE as the dominant browser a few months after its release in 2015.[15]
+
+Market share varies by region. On some days of the week, Edge takes second place with a 10.02% share in the US on PC, whereas for the full month it has an 8.61% share, ranking third after Firefox.[16][17] 
+
+Microsoft Edge is the default web browser on Windows 10, Windows 10 Mobile, and Xbox One consoles, replacing Internet Explorer 11 and Internet Explorer Mobile.[18] As its development and release is dependent on the model of Windows as a service, it is not included in Windows 10 Enterprise Long-term servicing branch (LTSB) builds.[19][20][21]
+
+Microsoft initially announced that Edge would support the legacy Trident (MSHTML) layout engine for backwards compatibility, but later said that, due to "strong feedback", Edge would use a new engine, while Internet Explorer would continue to provide the legacy engine.[22]
+
+Favorites, reading list, browsing history and downloads are viewed at the Hub,[23] a sidebar providing functionality similar to Internet Explorer's Downloads manager and Favorites Center.[24]
+
+The browser includes an integrated Adobe Flash Player (with an internal whitelist allowing Flash applets on Facebook websites to load automatically, bypassing all other security controls requiring user activation)[25] and a PDF reader. It also supports asm.js.[26]
+
+Edge does not support legacy technologies such as ActiveX and Browser Helper Objects, and instead uses an extension system.[5][27][28]
+
+Internet Explorer 11 remains available alongside Edge on Windows 10 for compatibility; it remains nearly identical to the Windows 8.1 version and does not use the Edge engine as was previously announced.[5][18][27]
+
+Edge integrates with Microsoft's online platforms in order to provide voice control, search functionality, and dynamic information related to searches within the address bar. Users can make annotations to web pages that can be stored to and shared with OneDrive,[29] but can't save HTML pages to their own computers. It also integrates with the "Reading List" function and provides a "Reading Mode" that strips unnecessary formatting from pages to improve their legibility.[29]
+
+Preliminary support for browser extensions was added in March 2016, with build 14291; three extensions were initially supported. Microsoft indicated that the delay in allowing extensions and the small number was due to security concerns.[30] 
+
+
